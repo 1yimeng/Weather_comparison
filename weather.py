@@ -1,5 +1,4 @@
-from datetime import datetime
-from bokeh.models.sources import ColumnDataSource, ColumnarDataSource
+from bokeh.models.sources import ColumnDataSource
 import pandas as pd
 from bokeh.plotting import figure, show
 from bokeh.layouts import row
